@@ -1,10 +1,15 @@
 # Castor Week 1 Lecture
 
-Welcome to a new week and the wonderful world of JavaScript. We went over various JavaScript starting concepts as listed below.
+Welcome to the first week. We went over a few different concepts that have been listed below.
 
-**JavaScript Topics:**
+**Topics:**
 
-1. variable declaration with `let` and `const`
-1. data types such as string, number, and boolean
-1. conditional statements with `if`, `else if`, and `else`
-1. comparisson operators such as `==`, `===`, `>`, `>=`, `<`, `<=`, `!=`, `!===`, and `!`
+1. terminal commands; `cd`, `ls`, & `cd ../`
+1. `git` commands
+    - `git init`
+    - `git status`
+    - `git add .`
+    - `git commit -m "message here"`
+1. CSS element and class selectors
+1. Chrome browser dev tools; inspect elements & console
+1. JavaScript: `console.log();`
